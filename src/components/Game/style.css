@@ -1,0 +1,60 @@
+h1 {
+  font-size: 4rem;
+}
+
+.points span {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.tip span {
+  color: var(--primary-color);
+  font-size: 2rem;
+}
+
+.tip {
+  gap: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wordContainer {
+  margin: 1.5em;
+  padding: 1.5em;
+  border: 20px solid var(--primary-color);
+  border-radius: 10px;
+  display: flex;
+}
+
+.blankSquare,
+.letter {
+  font-size: 4.375rem;
+  line-height: 1.5;
+  border: 3px solid var(--black);
+  width: 100px;
+  height: 100px;
+  text-transform: uppercase;
+  background-color: var(--white);
+  color: var(--black);
+  font-weight: bold;
+}
+
+.letterContainer p {
+  margin-bottom: 1.2em;
+  font-size: 1.5rem;
+}
+
+.letterContainer form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.letterContainer input {
+  height: 50px;
+  width: 50px;
+  font-size: 2rem;
+  text-align: center;
+  margin-right: 1em;
+}
