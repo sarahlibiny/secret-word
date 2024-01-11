@@ -1,6 +1,8 @@
 # Jogo Secret Word
 Projeto desenvolvido durante o curso de React na plataforma Udemy. 
 
+![secret word](https://github.com/sarahlibiny/secret-word/assets/122837977/2f243984-2326-429a-a71c-7a6f41f90423)
+
 ## ✔️ Tecnologias utilizadas
 - React
 
